@@ -48,6 +48,12 @@
    
  
  }
+.ins{
+  width: 8%;
+  height: 8%;
+
+}
+
  #c1{
    background-color: transparent;
    border:transparent;
@@ -87,6 +93,19 @@
  background: linear-gradient(90deg, rgba(216,121,168,1) 0%, rgba(93,156,230,0.9867297260701156) 92%);
  }
  .a{
-   margin:48% ;
+   margin:46% ;
    
  }
+.youlogo{
+margin-top: -9%;
+width:50%;
+}
+.youpara{
+  float: left;
+}
+.mainpara{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color:#444d8c ;
+}

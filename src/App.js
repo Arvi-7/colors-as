@@ -36,7 +36,7 @@ const popover  = (
   <Popover id="popover-basic">
     <Popover.Title as="h3">Village Girl</Popover.Title>
     <Popover.Content>
-      And here's <strong>Girl</strong>. It's
+      And here's <strong>Natural</strong>. It's
       right?
     </Popover.Content>
   </Popover>
@@ -156,7 +156,7 @@ function App() {
                   <ReactBootstrap.Col>
                    <h2><strong>✔<em>Some Arts</em></strong></h2>
                    <h4>✔<em>start Paint</em></h4>
-                   <h4>✔<em>Fallow Us</em></h4>
+                   <h4>✔<em>Follow Us</em></h4>
       </ReactBootstrap.Col>
 
                 </ReactBootstrap.Row>

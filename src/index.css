@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+=======
 .root{
   
   text-align: center;
@@ -5,107 +19,3 @@
  
  
  
- 
- .navbar{
-   background: rgb(230,153,186);
- background: linear-gradient(90deg, rgba(230,153,186,1) 0%, rgba(155,192,235,1) 100%);
- }
- 
- 
- .jum{
-   background: rgb(230,153,186);
- background: linear-gradient(90deg, rgba(230,153,186,1) 0%, rgba(155,192,235,1) 100%);
- }
- 
- 
- 
- 
- 
- body{
-   background: rgb(230,153,186);
- background: linear-gradient(90deg, rgba(230,153,186,1) 0%, rgba(155,192,235,1) 100%);
- }
- 
- .img{
-   height: 35%;
-   width: 40%;
-   margin-left: 30%;
- 
- }
- .hh{
-   text-align: center;
-   margin-top: 1%;
-   font-family:'URW Chancery L, cursive';
- }
- #i{
-   width: 90%;
-   height: 90%;
-   border-style:solid ;
-   border-color:black;
-   border-radius: 10%;
-   margin-left: 20px;
-   
-   
- 
- }
-.ins{
-  width: 8%;
-  height: 8%;
-
-}
-
- #c1{
-   background-color: transparent;
-   border:transparent;
-   padding: 30px 30px 30px 30px ;
- 
- }
- hr{
-   border-style: none;
-   border-top-style:dotted;
-   border-width: 50px;
-  
-   width: 10%;
-   background-color: black ;
-   
- 
- 
-    
-   border-style:inset ;
- 
-   
-   
-    
- }
- .b{
-   background: transparent;
-   border: transparent;
- }
- .jum1{
-   background: black !important;
-   margin: 0px 0px -32px;
-   position: relative;
-   margin-bottom: -32px;
- 
- }
- .page{
-   background: rgb(216,121,168);
- background: linear-gradient(90deg, rgba(216,121,168,1) 0%, rgba(93,156,230,0.9867297260701156) 92%);
- }
- .a{
-   margin:46% ;
-   
- }
-.youlogo{
-margin-top: -9%;
-width:50%;
-}
-.youpara{
-  float: left;
-}
-.mainpara{
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  color:#444d8c ;
-}
